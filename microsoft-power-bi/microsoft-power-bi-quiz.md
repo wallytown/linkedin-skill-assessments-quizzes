@@ -130,9 +130,9 @@
     D. data sources
 
 - [ ] B,C
-- [x] A, C, D
+- [ ] A, C, D
 - [ ] C,D
-- [ ] A, B, C
+- [x] A, B, C
 
 #### Q16. You want to delete a dataset but the Power BI service will not let you. What is the most likely cause?
 
